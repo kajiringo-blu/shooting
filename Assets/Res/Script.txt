@@ -1,0 +1,6 @@
+wait 50
+enemy groups 100
+wait 300
+enemy zako1 50
+enemy zako1 200
+wait 20
